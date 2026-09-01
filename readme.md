@@ -31,7 +31,7 @@ Script en Python para enviar un mismo correo a múltiples destinatarios obtenido
 1. Clonar el repositorio.
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/NullPointerJoe/Automatizacion-de-Correo
 cd repositorio
 ```
 
